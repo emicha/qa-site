@@ -1,3 +1,6 @@
 output/*
 content/*
 plugins/*
+srv.pid
+__pycache__
+__pycache__/*
