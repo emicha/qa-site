@@ -2,8 +2,8 @@ output/*
 !output/.gitkeep
 plugins/*
 !plugins/.gitkeep
-articles/*
-!articles/.gitkeep
+content/*
+!content/articles/qa-site-setup.rst
 srv.pid
 pelican.pid
 __pycache__
