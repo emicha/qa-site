@@ -1,6 +1,11 @@
 output/*
+!output/.gitkeep
 content/*
+!content/.gitkeep
 plugins/*
+!plugins/.gitkeep
+articles/*
+!articles/.gitkeep
 srv.pid
 __pycache__
 __pycache__/*
