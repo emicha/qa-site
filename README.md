@@ -1,3 +1,3 @@
 Please take a look into:
 
-[Setup](content/articles/qa-site-setup)
+[Setup](https://github.com/emicha/qa-site/blob/master/content/articles/qa-site-setup.rst)
