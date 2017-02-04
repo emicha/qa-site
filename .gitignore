@@ -1,7 +1,5 @@
 output/*
 !output/.gitkeep
-content/*
-!content/.gitkeep
 plugins/*
 !plugins/.gitkeep
 articles/*
