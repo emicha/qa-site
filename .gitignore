@@ -7,5 +7,6 @@ plugins/*
 articles/*
 !articles/.gitkeep
 srv.pid
+pelican.pid
 __pycache__
 __pycache__/*
