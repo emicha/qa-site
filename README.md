@@ -1,3 +1,3 @@
 Please take a look into:
 
-[a relative link](content/articles/qa-site-setup)
+[Setup](content/articles/qa-site-setup)
